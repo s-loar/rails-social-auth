@@ -39,6 +39,8 @@ gem 'bootstrap-sass'
 gem 'omniauth-twitter'
 # Facebook authorization
 gem 'omniauth-facebook'
+# Google + authorization
+gem 'omniauth-google-oauth2'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
