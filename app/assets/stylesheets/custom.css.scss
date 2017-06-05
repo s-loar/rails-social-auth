@@ -43,3 +43,9 @@ body {
 .navbar-default .navbar-nav li > a:hover {
   color: #ff0000;
 }
+
+nav {
+  img {
+    max-width: 48px;
+  }
+}
